@@ -1,0 +1,17 @@
+.editorComponent{
+    height: 100%;
+    /* background-color: red; */
+}
+.cMirror{
+    height: 50%;
+    /* background-color: black;  */
+ } 
+.codeMirror{
+    height: 100%;
+    /* background-color: cyan; */
+} 
+
+.question{
+    font-size: 25px;
+    font-weight: 900;
+}
